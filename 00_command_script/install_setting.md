@@ -52,7 +52,6 @@
     ```bash
     minikube dashboard
     ```
-    - 이 경우, minikube는 kubectl
 
 ## Kubernetes Dashbard 로그인 작업 - config yaml 작성방법
 - 접근권한 관련 yaml 파일을 생성한다
